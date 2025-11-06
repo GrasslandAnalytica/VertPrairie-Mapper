@@ -1,4 +1,5 @@
-# Grassland Classification Interactive WebMap
+# Grassland Management Classification Interactive WebMap
+Four distinct grassland categories (mechanically harvested hay, intensive grazing, extensive grazing, and fallow land) mapped at 5-meter resolution, delivering unmatched accuracy for informed decision-making.
 
 **Delivered by:** [Grassland Analytica](https://www.grasslandanalytica.com/)  
 **Contact:** service@grasslandanalytica.com  
@@ -11,9 +12,8 @@
 Your interactive grassland classification map is hosted online and ready to use!
 
 ### 🔗 **Web Address:**
-```
-https://[your-github-username].github.io/[repository-name]/
-```
+
+https://grasslandanalytica.github.io/VertPrairie-Mapper/ 
 
 Simply open this link in your web browser - no installation required!
 
@@ -63,13 +63,13 @@ Draw polygons to calculate grassland statistics within your custom areas:
 ## 📊 Data Info
 
 - **Resolution:** 5 meters
-- **Location:** Quebec Farm Region
+- **Location:** saint-cyrille-de-wendover in Quebec, Canada
 - **Date:** November 2025
 - **Total Area:** 938.58 hectares
 
 ---
 
-## 🌟 About Grassland Analytica
+## About Grassland Analytica
 
 **Professional Digital Landscape Modeling & Agricultural Analysis**
 
@@ -84,33 +84,20 @@ Draw polygons to calculate grassland statistics within your custom areas:
 ✓ Environmental data modeling  
 
 **Why Choose Us?**
-- 🚀 Fast & Reliable - Advanced analytics
-- 🔒 Secure - Three-layer data protection  
-- 👨‍🔬 Expert Team - 10+ years experience
-- 🎯 Custom Solutions - Tailored to your needs
+- Fast & Reliable - Advanced analytics
+- Secure - Three-layer data protection  
+- Expert Team - 10+ years experience
+- Custom Solutions - Tailored to your needs
 
 ---
 
 ## 📞 Support
 
-Need help? Contact us:
+Need help? 
+Contact us:
 - 📧 service@grasslandanalytica.com
 - 🌐 www.grasslandanalytica.com
 
 We offer technical support, additional analysis, and custom development.
-
----
-
-## 📝 Technical
-
-**Built with:** Leaflet.js, Leaflet.Draw, Turf.js  
-**Hosted on:** GitHub Pages  
-**Version:** 1.0 (November 2025)
-
----
-
-**Thank you for choosing Grassland Analytica!**
-
-*🌱 Connecting Real World to Digital Technology 🌍*
 
 © 2025 Grassland Analytica | www.grasslandanalytica.com
